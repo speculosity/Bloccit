@@ -27,4 +27,3 @@ module Bloccit
   end
 end
 
-config.serve_status.assets = true
