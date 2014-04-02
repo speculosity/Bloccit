@@ -61,3 +61,6 @@ gem 'bootstrap-sass', '~> 3.1.1'
 
 # User Authentication Gem
 gem 'devise'
+
+# User Authorization
+gem 'pundit'
