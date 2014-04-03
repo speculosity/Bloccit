@@ -64,3 +64,6 @@ gem 'devise'
 
 # User Authorization
 gem 'pundit'
+
+# Markdown
+gem 'redcarpet'
